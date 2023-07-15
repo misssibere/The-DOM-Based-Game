@@ -32,7 +32,7 @@ Enjoy playing the game on your own machine!
 
 ## Feedback and Contributions
 
-Your feedback and Contributions are highly appreciated. If you encounter any issues or have suggestions to improve the game, please create an issue or submit a pull request issue on the [GitHub repository]( https://github.com/misssibere/DOM-Based-Game.git ).
+Your feedback and Contributions are highly appreciated. If you encounter any issues or have suggestions to improve the game, please create an issue or submit a pull request issue on the [GitHub repository]( https://github.com/misssibere/The-DOM-Based-Game.git ).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
