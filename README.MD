@@ -13,7 +13,7 @@ This is a simple Snake Game built using DOM manipulation in JavaScript.
 1. **Setting up the Game Board**: The game board is created using HTML elements and styled with CSS. Each cell of the board represents a position where the snake can move.
 2. **Creating the Snake**: The snake is represented by a series of div elements using CSS styles. JavaScript is used to move the snake around the game board and detect collisions.
 3. **Handling User Input**: The arrow keys are used to control the direction of the snake. JavaScript listens for key events and updates the direction of the snake accordingly.
-4. ** Food Generation**: The food is randomly generated on the game board using JavaScript's `Math.random()` function. When the snake consumes the food, it grows longer, and the player earns points.
+4. **Food Generation**: The food is randomly generated on the game board using JavaScript's `Math.random()` function. When the snake consumes the food, it grows longer, and the player earns points.
 5. **GameOver and Scoring**: The score is updated and displayed on the user interface whenever the snake eats a food.
 When the snake touches the edges of the game board or itself, the game ends. The score is displayed at the end, showing how many food items the player successfully consumed.
 
