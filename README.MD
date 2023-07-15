@@ -17,8 +17,8 @@ This is a simple Snake Game built using DOM manipulation in JavaScript.
 5. **GameOver and Scoring**: The score is updated and displayed on the user interface whenever the snake eats a food.
 When the snake touches the edges of the game board or itself, the game ends. The score is displayed at the end, showing how many food items the player successfully consumed.
 
-## Live Site
-You can play the game live by visiting the [DOM Based Snake Game] (https://example.com) website.
+## Live Game Play
+You can play the game live by Installaling the [DOM Based Snake Game] 
 
 ## Installation Instructions
 To run the game locally on your machine, follow these steps:
