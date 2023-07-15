@@ -1,5 +1,6 @@
  Week 7 - The DOM Based Game | Classic Snack Game
 # The-DOM--Game-Project
+![Snake Game Screenshot](https://github.com/misssibere/The-DOM-Based-Game/assets/133782108/2ff5496e-9281-48b3-b902-1979c949990a)
 
 # DOM Based Snake Game
 This is a simple Snake Game built using DOM manipulation in JavaScript.
